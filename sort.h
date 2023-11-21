@@ -20,7 +20,7 @@ typedef struct listint_s
 	struct listint_s *next;
 } listint_t;
 
-
+void selection_sort(int *array, size_t size);
 
 
 #endif
