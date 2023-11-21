@@ -96,4 +96,8 @@ void quick_sort(int *array, size_t size)
 	}
 
 	quicksort(array, size, 0, size - 1);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6b97b054789855bdd01a43456115140514925638
